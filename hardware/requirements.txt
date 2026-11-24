@@ -1,0 +1,8 @@
+skidl
+schemdraw
+matplotlib
+scipy
+numpy
+ipykernel
+ipython
+pytest
